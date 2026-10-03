@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (3551951)
 * chore: add GitHub templates and workflows (f2274b8)
 * ci: update gource visualization (automated) (ce7265b)
 * ci: update gource visualization (automated) (c8e106d)
@@ -21,4 +22,3 @@
 * commits public (6e11e40)
 * UI cleanup (ad9bca0)
 * build files (f98c622)
-* updates vite config (9d73a60)
